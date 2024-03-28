@@ -1,3 +1,4 @@
+/*This program is used to convert the valie given from one currncy to another*/
 #include <iostream>
 using namespace std;
 
